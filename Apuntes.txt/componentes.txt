@@ -1,0 +1,15 @@
+--Componentes
+
+Son elementos reutilizables que ayudan a:
+
+Estandarizar patrones de diseño
+Reducir errores y tiempo de ajustes 
+
+Esto en resumen, es para en caso de querer editar un botón y al hacerlo, se puedan editar en todos los botones y no hacerlo de uno en uno 
+
+Para crearlas se pueden a partir de Frames, Grupos o capas
+
+Para crear una instancia podemos arrastrar el componente o hacer ctrl c y ctrl v 
+al igual que hacer Drag desde vista 
+
+

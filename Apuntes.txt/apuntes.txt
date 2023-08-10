@@ -1,0 +1,50 @@
+-- crear archivo nuevo
+-diseño 
+-figjam
+-cuál es el equipo y el proyecto 
+
+
+-- capas 
+los bloques se pueden contener Texto, Vectores e imágenes 
+
+F o A para crear el primer espacio del trabajo 
+seleccionar android small        
+
+
+4 columnas
+16 dp gutter 
+16 dp margen 
+
+Guías 
+son una sola línea 
+shift r hasta el
+
+layout grit 
+columnas 
+poner 4 columnas 
+
+--- bloque fundamental de una interfaz        
+ 
+
+ ctrl b = bold ( negrilla)
+ ctrl i = italicized ( italizado en ángulo a la derecha)
+ ctrl u = Underlined(subrallado)
+
+
+
+--Figuras 
+R = rectángulo
+O = Óvalo
+L = Línea 
+
+todas sus proppiedades tienen 
+alineción
+tamaño 
+posición 
+Rotación 
+Bordes 
+radio de bordes 
+Contraints
+Opacidad 
+Relleno 
+
